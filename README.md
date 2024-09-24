@@ -12,4 +12,22 @@ Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiê
   <img width="40%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Vasconcelos&layout=compact&theme=dracula" />
 </div>
 
-### Linguagens de Programação
+
+<div align="center" >
+
+
+<div align="start" width="40% >
+  <h4>Linguagens de programaçao</h4>
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</div>
+
+<div align="start" width="40% >
+<h4>Linguagens de programaçao</h4>
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</div>
+  
+</div>
