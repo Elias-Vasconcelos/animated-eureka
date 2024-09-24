@@ -29,7 +29,17 @@ Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiê
   <img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img height="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.Js" />
   <img height="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  
+  <img height="40" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
-  
+
+<div align="start" width="40%" >
+   <h3> Pré processadores css e Ferramentas de building  </h3>
+  <img height="80" src="https://icon.icepanel.io/Technology/svg/Sass.svg" alt="SASS" />
+  <img height="80" src="https://icon.icepanel.io/Technology/svg/Gulp.js.svg" alt="Gulp" /> 
+   <div></div>
+  <img height="80" src="https://icon.icepanel.io/Technology/svg/Less.js.svg" alt="Less" />  
+  <img height="80" src="https://icon.icepanel.io/Technology/svg/Grunt.js.svg" alt="Grunt" />
+</div>
+
 </div>
