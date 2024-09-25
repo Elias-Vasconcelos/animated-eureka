@@ -1,11 +1,8 @@
 # Olá, Eu sou o Elias Ferreira 😄
 
-Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiência na criação de interfaces interativas, responsivas e acessíveis. Sempre busco aprimorar a experiência do usuário 
+Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiência na criação de interfaces interativas, responsivas e acessíveis. Sempre busco aprimorar a experiência do usuário, utilizando minhas habilidades em JavaScript e TypeScript, além dos principais frameworks e bibliotecas do mercado, como React, Vue.js, Angular, jQuery e Bootstrap.
 
-<div align="left" >
-  <a href="mailto:eliasferreiraoficial14@gmail.com" target="_blank" > <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
-  <a href="https://www.linkedin.com/in/elias-ferreira-4404b9224/" target="_blank" > <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a>
-</div>
+Além dessas habilidades, tenho conhecimento em pré-processadores CSS, como Sass e Less, e ferramentas de build e automação de tarefas, como Grunt e Gulp. Também estou familiarizado com ferramentas de testes unitários e end-to-end, como Jest e Cypress, garantindo segurança e estabilidade nos projetos em que trabalho.
 
 <div align="center">  
   <img width="50%" height="300x" src="https://github-readme-stats.vercel.app/api?username=Elias-Vasconcelos&show_icons=true&theme=dracula" /> 
@@ -16,6 +13,12 @@ Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiê
 
 <div align="center" >
 
+
+<div align="start"  width="40%" >
+  <h3> Meus contatos </h3>
+  <a href="mailto:eliasferreiraoficial14@gmail.com" target="_blank" > <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
+  <a href="https://www.linkedin.com/in/elias-ferreira-4404b9224/" target="_blank" > <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a>
+</div>
 
 <div align="start" width="40%" >
   <h3> Linguagens De progamacao </h3>
@@ -34,10 +37,15 @@ Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiê
 </div>
 
 <div align="start" width="40%" >
+   <h3> Ferramentas de teste </h3>
+  <img height="40" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
+  <img height="40" src="https://buddy.works/blog/thumbnails/cypress-cover.png" alt="cypress" />
+</div>
+
+<div align="start" width="40%" >
    <h3> Pré processadores css e Ferramentas de building  </h3>
   <img height="80" src="https://icon.icepanel.io/Technology/svg/Sass.svg" alt="SASS" />
   <img height="80" src="https://icon.icepanel.io/Technology/svg/Gulp.js.svg" alt="Gulp" /> 
-   <div></div>
   <img height="80" src="https://icon.icepanel.io/Technology/svg/Less.js.svg" alt="Less" />  
   <img height="80" src="https://icon.icepanel.io/Technology/svg/Grunt.js.svg" alt="Grunt" />
 </div>
